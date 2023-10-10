@@ -9,7 +9,6 @@ O Podex é uma aplicação web inspirada na Pokédex que permite aos usuários b
 - [Como Usar](#como-usar)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Introdução
 
